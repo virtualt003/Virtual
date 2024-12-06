@@ -59,7 +59,7 @@ def main():
             print(f"An error occurred: {e}")
 
 
-        time.sleep(1800)
+        time.sleep(500)
 
 if __name__ == "__main__":
     main()
